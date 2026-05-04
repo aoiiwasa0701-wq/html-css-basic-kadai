@@ -1,7 +1,7 @@
 #top {
     
     width: 800px;
-    height: 60px;
+    
     background-color: #dcc9f4;
     margin: 20px auto;
     text-align: center;
@@ -9,7 +9,7 @@
 }
 .top-child {
     display: inline-block;
-    margin: 20px auto;
+    
     width: 20%;
     background-color: #ffd9df;
     text-align: center;
@@ -75,5 +75,4 @@
     position: relative;
     
     left: 400px;
-}
 }
